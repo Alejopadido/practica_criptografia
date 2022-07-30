@@ -1,0 +1,17 @@
+
+Secret key: hmac-sha256
+Algorithm: HMACSHA256
+Key size: 256 bits
+Key: 2712a51c997e14b4df08d55967641b0677ca31e049e672a4b06861aa4d5826eb
+Secret key: cifrado-sim-chacha20-256
+Algorithm: ChaCha
+Key size: 256 bits
+Key: 979df30474898787a45605ccb9b936d33b780d03cabc81719d52383480dc3120
+Secret key: hmac-sha512
+Algorithm: HMACSHA512
+Key size: 512 bits
+Key: 6c927170735234c3f58c78a02c7bb859f317760345ebdc66cb2387512de4698ab3b2ddecdd94212b3ec86dfa3965aa774697a859b5273e199585f106d820afd8
+Secret key: cifrado-sim-aes-256
+Algorithm: AES
+Key size: 256 bits
+Key: e2cff885901a5449e9c448ba5b948a8c4ee377152b3f1acfa0148fb3a426db72
